@@ -1,7 +1,7 @@
-# HARS
-Healthcare Appointment / Remainder system
+# HARS <img src="logo_yellow.png" width="350" title="Healthcare Appointment / Remainder system" alt="Healthcare Appointment / Remainder system" align="right">
+**Healthcare Appointment / Remainder system**
 
-
+<br/><br/>
 - On Spain once you got an appointment to a visit's doctor, or some kind of test or blood analysis it
 needs to be reminded to you at least two times, the first time and a few days before the appointment.
 .
